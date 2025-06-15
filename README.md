@@ -1,20 +1,34 @@
 # 👋 Hey there! I'm Angel
 
-You can call me **Angle** — it's not a typo, it's a vibe 😎  
+You can call me **Angle**, its just a nickname lmao 
 Pronouns: **he/him**  
-📍 Based in the suburbs near **Chicago, IL**
+📍 Living in the suburbs near **Chicago, IL**
 
 ---
 
 ### 🌱 Currently Learning
-- 🐍 **Python**
-- ⚡ **JavaScript**
+- 🐍 **Python**  scripting, automating, maybe a bot or two
+- ⚡ **JavaScript**  diving into the front-end world
 
 ---
 
-### 💬 Let's Connect
-Feel free to reach out or follow along as I grow and build!
+### 🛠️ My Setup
+- 💻 **MacBook Air 13" (2018)**
+- 🧑‍💻 **Visual Studio Code**  my code editor of choice :p
 
 ---
 
-Thanks for stopping by! 🚀
+### 📫 Reach Out
+- 📧 **Email:** [angel@isuka.lol](mailto:angel@isuka.lol)  
+- 💬 **Discord:** `meadosu`
+
+---
+
+### 💡 Fun Facts
+- I love tech, self-learning, and experimenting with code.
+- Slowly but surely building my coding skills one day at a time.
+- RedBull might be powering this readme ☕
+
+---
+
+Thanks for visiting! Feel free to follow my journey or say hi. 🚀
